@@ -19,9 +19,9 @@ MIT License.
 
 ## 実行環境 - Server Requirements
 
-- Zabbix Server 3.0.10 and 3.4.3 and 4.0.1 (Not Supported 3.2.x !)
+- Zabbix Server 3.0.10 and 3.4.3 and 4.0.2 (Not Supported 3.2.x !)
 - MySQL or MariaDB
-- PHP 5.6
+- PHP 5.6 or later
     - php-pdo
     - php-mysqlnd
     - php-mbstring
